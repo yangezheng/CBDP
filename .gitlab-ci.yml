@@ -7,7 +7,7 @@ build:
     - g++ -o hello_world hello_world.cpp
     - ./hello_world | grep -q "Hello, cloud explorers!"
   only:
-    - master  # Define the branch for which the pipeline should run
+    - main  # Define the branch for which the pipeline should run
   artifacts:
     paths:
       - hello_world  # Preserve the compiled program for download if needed
