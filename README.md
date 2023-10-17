@@ -12,4 +12,6 @@ Run the following command to compile the program:
 
 ```bash
 g++ -o hello_world hello_world.cpp
-
+```
+## Your Challenging First Task
+Modify the program so that it prints "Hello, cloud explorers!".
