@@ -11,5 +11,3 @@ build:
   artifacts:
     paths:
       - hello_world  # Preserve the compiled program for download if needed
-  tags:
-    - linux  # Specify the runner's tag, e.g., 'linux' or 'windows'
