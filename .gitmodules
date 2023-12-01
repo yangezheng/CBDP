@@ -1,0 +1,3 @@
+[submodule "Assignment04/CBDP04_ScalableAndDistributedDataProc"]
+	path = Assignment04/CBDP04_ScalableAndDistributedDataProc
+	url = git@github.com:yangezheng/CBDP04_ScalableAndDistributedDataProc.git
